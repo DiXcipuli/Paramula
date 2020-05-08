@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/img">
+        <file alias="player1Normal">player1Normal.png</file>
+        <file alias="player2Normal">player2Normal.png</file>
+        <file alias="player3Normal">player3Normal.png</file>
+        <file alias="player4Normal">player4Normal.png</file>
+        <file alias="player5Normal">player5Normal.png</file>
+        <file alias="player6Normal">player6Normal.png</file>
+        <file alias="player7Normal">player7Normal.png</file>
+        <file alias="player8Normal">player8Normal.png</file>
+        <file alias="player1Refresh">player1Refresh.png</file>
+        <file alias="player2Refresh">player2Refresh.png</file>
+        <file alias="player3Refresh">player3Refresh.png</file>
+        <file alias="player4Refresh">player4Refresh.png</file>
+        <file alias="player5Refresh">player5Refresh.png</file>
+        <file alias="player6Refresh">player6Refresh.png</file>
+        <file alias="player7Refresh">player7Refresh.png</file>
+        <file alias="player8Refresh">player8Refresh.png</file>
+        <file alias="player1Cascade">player1Cascade.png</file>
+        <file alias="player2Cascade">player2Cascade.png</file>
+        <file alias="player3Cascade">player3Cascade.png</file>
+        <file alias="player4Cascade">player4Cascade.png</file>
+        <file alias="player5Cascade">player5Cascade.png</file>
+        <file alias="player6Cascade">player6Cascade.png</file>
+        <file alias="player7Cascade">player7Cascade.png</file>
+        <file alias="player8Cascade">player8Cascade.png</file>
+        <file alias="player1Impro">player1Impro.png</file>
+        <file alias="player2Impro">player2Impro.png</file>
+        <file alias="player3Impro">player3Impro.png</file>
+        <file alias="player4Impro">player4Impro.png</file>
+        <file alias="player5Impro">player5Impro.png</file>
+        <file alias="player6Impro">player6Impro.png</file>
+        <file alias="player7Impro">player7Impro.png</file>
+        <file alias="player8Impro">player8Impro.png</file>
+        <file alias="GroupRecord">GroupRecord.png</file>
+        <file alias="GroupLoop">GroupLoop.png</file>
+        <file alias="GroupReady">GroupReady.png</file>
+        <file alias="backgroundImg">background.jpeg</file>
+        <file alias="GroupReadyWarning">GroupReadyWarning.png</file>
+    </qresource>
+</RCC>
